@@ -4,7 +4,7 @@ Instalação:
 
  cd rastrearcorreios
 
- python correios.py
+ python2 correios.py
 
 
 Modo de uso: ./correios.py "ENCOMENDA[1]" "ENCOMENDA[2]" ... "ENCOMENDA[N]"
