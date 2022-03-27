@@ -1,7 +1,9 @@
 ## rastrear correios
 Instalação:
- git clone https
+ git clone https://github.com/spidercks/rastrearcorreios
+
  cd rastrearcorreios
+
  python correios.py
 
 
